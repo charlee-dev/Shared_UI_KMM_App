@@ -20,9 +20,9 @@ object Android {
 }
 
 object Ballast {
-    const val core= "io.github.copper-leaf:ballast-core:${Version.ballast}"
-    const val savedState= "io.github.copper-leaf:ballast-saved-state:${Version.ballast}"
-    const val navigation= "io.github.copper-leaf:ballast-navigation:${Version.ballast}"
+    const val core = "io.github.copper-leaf:ballast-core:${Version.ballast}"
+    const val savedState = "io.github.copper-leaf:ballast-saved-state:${Version.ballast}"
+    const val navigation = "io.github.copper-leaf:ballast-navigation:${Version.ballast}"
     const val test = "io.github.copper-leaf:ballast-test:${Version.ballast}"
 }
 
@@ -43,7 +43,9 @@ object Kotlin {
 
 object Koin {
     const val core = "io.insert-koin:koin-core:${Version.koin}"
+    const val android = "io.insert-koin:koin-android:${Version.koin}"
 }
+
 object Settings {
     const val common = "com.russhwolf:multiplatform-settings:${Version.settings}"
     const val coroutines = "com.russhwolf:multiplatform-settings-coroutines:${Version.settings}"

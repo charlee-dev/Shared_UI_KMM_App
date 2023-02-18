@@ -16,5 +16,17 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Shared_UI_KMM_App"
+
 include(":androidApp")
-include(":shared")
+include(
+    ":data:sdk",
+    ":data:local",
+    ":data:remote",
+    ":data:usecase",
+)
+include(
+    ":feature:root",
+    ":feature:router",
+    ":feature:bt:list",
+    ":feature:bt:detail",
+)

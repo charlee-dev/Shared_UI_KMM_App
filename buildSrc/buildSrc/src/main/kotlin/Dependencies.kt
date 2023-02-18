@@ -1,6 +1,6 @@
 object Version {
     const val activity = "1.6.1"
-    const val agp = "8.1.0-alpha05"
+    const val agp = "7.4.1"
     const val ballast = "2.3.0"
     const val composeCompiler = "1.3.2"
     const val coroutines = "1.6.4"
@@ -9,10 +9,10 @@ object Version {
     const val junit = "4.13.2"
     const val kermit = "1.1.3"
     const val koin = "3.3.2"
-    const val kotlin = "1.8.10"
+    const val kotlin = "1.7.20"
     const val material = "1.4.0"
     const val mockk = "1.12.4"
-    const val settings = "1.0.0-RC"
+    const val settings = "1.0.0"
 }
 
 object Android {

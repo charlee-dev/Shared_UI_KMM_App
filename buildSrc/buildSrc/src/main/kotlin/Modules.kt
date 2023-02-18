@@ -8,6 +8,7 @@ object Modules {
     const val DATA_LOCAL = ":data:local"
     const val DATA_USECASE = ":data:usecase"
 
+    const val SHARED_UI = ":sharedUi"
     const val FEATURE_ROOT = ":feature:root"
     const val FEATURE_ROUTER = ":feature:router"
     const val FEATURE_LOGIN = ":feature:login"

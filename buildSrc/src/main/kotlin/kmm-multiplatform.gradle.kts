@@ -9,7 +9,7 @@ version = KotlinConfig.version
 
 kotlin {
     android()
-    iosArm64("ios")
+    ios()
     iosSimulatorArm64()
 
     kotlin {

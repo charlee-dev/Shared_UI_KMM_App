@@ -8,6 +8,6 @@ object Plugins {
     const val KOTLIN_MULTIPLATFORM = "multiplatform"
     const val KOTLIN_NATIVE_COCAPODS = "native.cocoapods"
 
-    const val SHOPPE_MULTIPLATFORM = "shoppe-multiplatform"
-    const val SHOPPE_COMPONENT = "shoppe-component"
+    const val KMM_MULTIPLATFORM = "kmm-multiplatform"
+    const val KMM_COMPONENT = "kmm-component"
 }

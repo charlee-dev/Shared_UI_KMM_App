@@ -25,8 +25,10 @@ include(
     ":data:usecase",
 )
 include(
+    ":sharedUi",
     ":feature:root",
     ":feature:router",
+    ":feature:login",
     ":feature:bt:list",
     ":feature:bt:detail",
 )
